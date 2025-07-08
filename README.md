@@ -1,2 +1,2 @@
 # d-demo
-nothing much to say about git and github
+nothing much to say about git and github.
